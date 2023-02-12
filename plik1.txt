@@ -1,5 +1,1 @@
-
-napis z nowybranch1
-
-napis z nowybranch2
->>>>>>> nowybranch2
+napis 5
